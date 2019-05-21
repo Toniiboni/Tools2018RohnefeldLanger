@@ -8,9 +8,11 @@ public class Git {
 	}
 	
 	public void thisIsANewMethod() {
+
 		for(int i = 0; i < 10; i++) {
 			System.out.println("*");
 		}
+		System.out.print("Change of Toni");
 	}
 
 }
