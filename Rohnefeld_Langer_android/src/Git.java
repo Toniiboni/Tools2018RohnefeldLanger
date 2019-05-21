@@ -14,6 +14,8 @@ public class Git {
 		}
 		System.out.print("Change of Toni");
 		System.out.print("Fixed Bug, LG Maria");
+		System.out.print("Fixed Bug twice, LG Maria");
+
 
 	}
 
