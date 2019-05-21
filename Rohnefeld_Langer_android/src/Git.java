@@ -13,6 +13,8 @@ public class Git {
 			System.out.println("*");
 		}
 		System.out.print("Change of Toni");
+		System.out.print("Fixed Bug, LG Maria");
+
 	}
 
 }
