@@ -4,6 +4,8 @@ public class Git {
 	public static void main(String[] args) {
 		System.out.print("First Commit");
 		System.out.print("Hello World!");
+		System.out.print("New Line by Toni");
+		
 
 	}
 	
@@ -13,9 +15,10 @@ public class Git {
 			System.out.println("*");
 		}
 		System.out.print("Change of Toni");
+		System.out.print("New Line by Toni");
+
 		System.out.print("Fixed Bug, LG Maria");
 		System.out.print("Fixed Bug twice, LG Maria");
-
 
 	}
 
