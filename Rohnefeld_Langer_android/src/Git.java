@@ -7,6 +7,8 @@ public class Git {
 
 	}
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		System.out.print("Change of Toni");
+	}
 
 }
