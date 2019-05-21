@@ -15,6 +15,7 @@ public class Git {
 			System.out.println("*");
 		}
 		System.out.print("Change of Toni");
+		System.out.print("New Line by Toni");
 	}
 
 }
