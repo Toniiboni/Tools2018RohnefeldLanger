@@ -7,6 +7,10 @@ public class Git {
 
 	}
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		for(int i = 0; i < 10; i++) {
+			System.out.println("*");
+		}
+	}
 
 }
