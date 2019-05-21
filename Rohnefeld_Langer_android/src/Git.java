@@ -5,5 +5,7 @@ public class Git {
 		System.out.print("First Commit");
 
 	}
+	
+	public void thisIsANewMethod() { }
 
 }
